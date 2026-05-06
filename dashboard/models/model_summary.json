@@ -1,0 +1,11 @@
+{
+  "xgb_indist_mae": 0.0218,
+  "xgb_indist_r2": 0.9297,
+  "xgb_ood_mae": 0.0942,
+  "xgb_ood_r2": -3.9004,
+  "lstm_indist_mae": 0.0423,
+  "lstm_indist_r2": 0.6264,
+  "lstm_ood_mae": 0.0542,
+  "lstm_ood_r2": -1.3131,
+  "lstm_mean_uncertainty": 0.0683
+}
